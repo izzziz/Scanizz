@@ -1,51 +1,28 @@
-## Developer Portfolio Landing Page Template
+## Scaniz
 
-### Introduction
+### INTRODUCTION
+Scaniz is a scanning utility on your iphone.Open the app, focus on what you want to scan then done.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-<img src="images/demo.gif?raw=true"/>
 
-### Installation
+Try a PDF scanner app that will convert your iOS device into a fast and powerful document scanner that recognizes text.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+Download this scanner app free of charge to instantly scan, save, and share any document in PDF, JPG or TXT format.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Become more productive with a handy PDF scanner in your pocket! Go paperless and store all your documents in a neat mobile office on your very phone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This fast and powerful free scanner app is a must-have app for students and anyone involved in a small business: accountants, realtors, managers, or lawyers.
 
-### Markdown
+## DOCUMENT SCANNER
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Digitize all your important documents with the device camera or add files from the Photos. You can scan different work documents, graphic material, ID cards and docs, books, papers, magazine articles, receipts, business cards, whiteboards, text on different images, bills, reports, invoices, study notes, certificates, contracts for your business partners and clients, and more!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## EASY DOCUMENT SHARING
 
-- Bulleted
-- List
+* Scan documents and share them in just a few taps
+* Print contracts and invoices right from the scanner app
+* Share and upload scanned documents to cloud services like Dropbox, Evernote or Google Drive
+With this secure free scanner app, any scanned or exported documents are stored locally on your device, and neither we nor any third-party can access them.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
