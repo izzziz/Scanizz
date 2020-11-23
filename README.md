@@ -3,14 +3,9 @@
 ### INTRODUCTION
 Scaniz is a scanning utility on your iphone.Open the app, focus on what you want to scan then done.
 
-
-
 Try a PDF scanner app that will convert your iOS device into a fast and powerful document scanner that recognizes text.
-
 Download this scanner app free of charge to instantly scan, save, and share any document in PDF, JPG or TXT format.
-
 Become more productive with a handy PDF scanner in your pocket! Go paperless and store all your documents in a neat mobile office on your very phone.
-
 This fast and powerful free scanner app is a must-have app for students and anyone involved in a small business: accountants, realtors, managers, or lawyers.
 
 ## DOCUMENT SCANNER
